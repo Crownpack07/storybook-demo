@@ -2,7 +2,7 @@ import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 import ProductGrid from './ProductGrid';
-import products from './../data/productData'
+import products from '../data/productData'
 
 export default {
     title: 'Example/ProductGrid',

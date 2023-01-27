@@ -1,5 +1,5 @@
-import ProductComponent from "./ProductComponent";
-import ProductData from "./ProductData"
+import ProductComponent from "../ProductComponent/ProductComponent";
+import ProductData from "../ProductComponent/ProductData"
 import "./ProductGrid.css"
 
 type ProductGridProps = {

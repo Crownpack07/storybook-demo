@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import ProductComponent from "./Product/ProductComponent";
-import ProductGrid from "./Product/ProductGrid";
+import ProductComponent from "./ProductComponent/ProductComponent";
+import ProductGrid from "./ProductGrid/ProductGrid";
 import productData from "./data/productData";
 
 const root = ReactDOM.createRoot(
